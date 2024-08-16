@@ -23,7 +23,7 @@ My GitHub is where I explore and experiment with ideas, continually refining my 
 
 <!-- GitHub Stats Section -->
 <div align="center">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdul-Wasih03&layout=compact&theme=transparent" alt="Abdul-Wasih03" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdul-Wasih03" alt="Abdul-Wasih03" /></a> </p>
 
 </div>
 <div align="center">
