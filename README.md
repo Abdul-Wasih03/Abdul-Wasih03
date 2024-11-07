@@ -40,7 +40,7 @@ My GitHub is where I explore and experiment with ideas, continually refining my 
 <h2 align="center">Connect with me</h2>
 <p align="center">
   📧 Email: <a href="mailto:abdul.wasih1403@gmail.com">abdul.wasih1403@gmail.com</a><br>
-  <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-abdul-wasih-8322332a5" height="15" width="15" /> LinkedIn: <a href="https://www.linkedin.com/in/syed-abdul-wasih-8322332a5/">Syed Abdul Wasih H</a>
+  <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-abdul-wasih-8322332a5" height="15" width="15" /> LinkedIn: <a href="https://www.linkedin.com/in/syed-abdul-wasih/">Syed Abdul Wasih H</a>
 </p>
 
 <!-- Footer Section -->
