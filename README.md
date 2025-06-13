@@ -17,7 +17,7 @@ My GitHub is where I explore and experiment with ideas, continually refining my 
   <img src="https://img.shields.io/badge/-Data%20Science-brown" alt="Data Science">
   <img src="https://img.shields.io/badge/-Data%20Analysis-indigo" alt="Data Analysis">
   <img src="https://img.shields.io/badge/-Data%20Engineering-purple" alt="Data Engineering">
-  <img src="https://img.shields.io/badge/-AWS-orange" alt="Azure">
+  <img src="https://img.shields.io/badge/-Azure-blue" alt="Azure">
   <img src="https://img.shields.io/badge/-SQL-yellow" alt="SQL">
 </p>
 
